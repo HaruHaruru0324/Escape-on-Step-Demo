@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Escape_on_Step_Demo",
+			"Path": "..\\Source\\Escape_on_Step_Demo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Escape_on_Step_DemoEditor",
+			"Path": "..\\Source\\Escape_on_Step_DemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
