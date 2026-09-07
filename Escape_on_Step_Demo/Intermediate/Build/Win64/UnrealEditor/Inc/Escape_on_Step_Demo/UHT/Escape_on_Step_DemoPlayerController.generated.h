@@ -20,7 +20,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_AEscape_on_Step_DemoPlayerController_Statics;
 ESCAPE_ON_STEP_DEMO_API UClass* Z_Construct_UClass_AEscape_on_Step_DemoPlayerController_NoRegister();
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_20_INCLASS_NO_PURE_DECLS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_20_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAEscape_on_Step_DemoPlayerController(); \
 	friend struct ::Z_Construct_UClass_AEscape_on_Step_DemoPlayerController_Statics; \
@@ -31,7 +31,7 @@ public: \
 	DECLARE_SERIALIZER(AEscape_on_Step_DemoPlayerController)
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_20_ENHANCED_CONSTRUCTORS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_20_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AEscape_on_Step_DemoPlayerController(AEscape_on_Step_DemoPlayerController&&) = delete; \
 	AEscape_on_Step_DemoPlayerController(const AEscape_on_Step_DemoPlayerController&) = delete; \
@@ -41,12 +41,12 @@ public: \
 	NO_API virtual ~AEscape_on_Step_DemoPlayerController();
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_17_PROLOG
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_20_GENERATED_BODY \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_17_PROLOG
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_20_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_20_INCLASS_NO_PURE_DECLS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_20_ENHANCED_CONSTRUCTORS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_20_INCLASS_NO_PURE_DECLS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h_20_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,6 +56,6 @@ class AEscape_on_Step_DemoPlayerController;
 // ********** End Class AEscape_on_Step_DemoPlayerController ***************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h
+#define CURRENT_FILE_ID FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoPlayerController_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

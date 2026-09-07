@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class AEscape_on_Step_DemoCharacter ********************************************
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execDoJumpEnd); \
 	DECLARE_FUNCTION(execDoJumpStart); \
 	DECLARE_FUNCTION(execDoMove); \
@@ -27,7 +27,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_AEscape_on_Step_DemoCharacter_Statics;
 ESCAPE_ON_STEP_DEMO_API UClass* Z_Construct_UClass_AEscape_on_Step_DemoCharacter_NoRegister();
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_INCLASS_NO_PURE_DECLS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAEscape_on_Step_DemoCharacter(); \
 	friend struct ::Z_Construct_UClass_AEscape_on_Step_DemoCharacter_Statics; \
@@ -38,7 +38,7 @@ public: \
 	DECLARE_SERIALIZER(AEscape_on_Step_DemoCharacter)
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_ENHANCED_CONSTRUCTORS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AEscape_on_Step_DemoCharacter(AEscape_on_Step_DemoCharacter&&) = delete; \
 	AEscape_on_Step_DemoCharacter(const AEscape_on_Step_DemoCharacter&) = delete; \
@@ -48,13 +48,13 @@ public: \
 	NO_API virtual ~AEscape_on_Step_DemoCharacter();
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_21_PROLOG
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_GENERATED_BODY \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_21_PROLOG
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_INCLASS_NO_PURE_DECLS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_ENHANCED_CONSTRUCTORS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_INCLASS_NO_PURE_DECLS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -64,6 +64,6 @@ class AEscape_on_Step_DemoCharacter;
 // ********** End Class AEscape_on_Step_DemoCharacter **********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h
+#define CURRENT_FILE_ID FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoCharacter_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

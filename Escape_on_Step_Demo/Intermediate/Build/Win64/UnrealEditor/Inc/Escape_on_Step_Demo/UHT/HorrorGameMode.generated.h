@@ -20,7 +20,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_AHorrorGameMode_Statics;
 ESCAPE_ON_STEP_DEMO_API UClass* Z_Construct_UClass_AHorrorGameMode_NoRegister();
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_15_INCLASS_NO_PURE_DECLS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAHorrorGameMode(); \
 	friend struct ::Z_Construct_UClass_AHorrorGameMode_Statics; \
@@ -31,7 +31,7 @@ public: \
 	DECLARE_SERIALIZER(AHorrorGameMode)
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_15_ENHANCED_CONSTRUCTORS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AHorrorGameMode(AHorrorGameMode&&) = delete; \
 	AHorrorGameMode(const AHorrorGameMode&) = delete; \
@@ -41,12 +41,12 @@ public: \
 	NO_API virtual ~AHorrorGameMode();
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_12_PROLOG
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_15_GENERATED_BODY \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_12_PROLOG
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_15_INCLASS_NO_PURE_DECLS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_15_ENHANCED_CONSTRUCTORS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_15_INCLASS_NO_PURE_DECLS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,6 +56,6 @@ class AHorrorGameMode;
 // ********** End Class AHorrorGameMode ************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h
+#define CURRENT_FILE_ID FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_HorrorGameMode_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

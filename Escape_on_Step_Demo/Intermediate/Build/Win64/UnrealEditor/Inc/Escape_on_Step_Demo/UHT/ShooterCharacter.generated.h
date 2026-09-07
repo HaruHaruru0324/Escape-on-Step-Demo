@@ -17,31 +17,31 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Delegate FBulletCountUpdatedDelegate *******************************************
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_15_DELEGATE \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_15_DELEGATE \
 ESCAPE_ON_STEP_DEMO_API void FBulletCountUpdatedDelegate_DelegateWrapper(const FMulticastScriptDelegate& BulletCountUpdatedDelegate, int32 MagazineSize, int32 Bullets);
 
 
 // ********** End Delegate FBulletCountUpdatedDelegate *********************************************
 
 // ********** Begin Delegate FDamagedDelegate ******************************************************
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_16_DELEGATE \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_16_DELEGATE \
 ESCAPE_ON_STEP_DEMO_API void FDamagedDelegate_DelegateWrapper(const FMulticastScriptDelegate& DamagedDelegate, float LifePercent);
 
 
 // ********** End Delegate FDamagedDelegate ********************************************************
 
 // ********** Begin Class AShooterCharacter ********************************************************
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execDoSwitchWeapon); \
 	DECLARE_FUNCTION(execDoStopFiring); \
 	DECLARE_FUNCTION(execDoStartFiring);
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_CALLBACK_WRAPPERS
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_CALLBACK_WRAPPERS
 struct Z_Construct_UClass_AShooterCharacter_Statics;
 ESCAPE_ON_STEP_DEMO_API UClass* Z_Construct_UClass_AShooterCharacter_NoRegister();
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_INCLASS_NO_PURE_DECLS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAShooterCharacter(); \
 	friend struct ::Z_Construct_UClass_AShooterCharacter_Statics; \
@@ -53,7 +53,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AShooterCharacter*>(this); }
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_ENHANCED_CONSTRUCTORS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AShooterCharacter(AShooterCharacter&&) = delete; \
 	AShooterCharacter(const AShooterCharacter&) = delete; \
@@ -63,14 +63,14 @@ public: \
 	NO_API virtual ~AShooterCharacter();
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_23_PROLOG
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_GENERATED_BODY \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_23_PROLOG
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_CALLBACK_WRAPPERS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_INCLASS_NO_PURE_DECLS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_ENHANCED_CONSTRUCTORS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_CALLBACK_WRAPPERS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_INCLASS_NO_PURE_DECLS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h_26_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -80,6 +80,6 @@ class AShooterCharacter;
 // ********** End Class AShooterCharacter **********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h
+#define CURRENT_FILE_ID FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_ShooterCharacter_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

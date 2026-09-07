@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Delegate FPawnDeathDelegate ****************************************************
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_10_DELEGATE \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_10_DELEGATE \
 ESCAPE_ON_STEP_DEMO_API void FPawnDeathDelegate_DelegateWrapper(const FMulticastScriptDelegate& PawnDeathDelegate);
 
 
@@ -27,7 +27,7 @@ ESCAPE_ON_STEP_DEMO_API void FPawnDeathDelegate_DelegateWrapper(const FMulticast
 struct Z_Construct_UClass_AShooterNPC_Statics;
 ESCAPE_ON_STEP_DEMO_API UClass* Z_Construct_UClass_AShooterNPC_NoRegister();
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_22_INCLASS_NO_PURE_DECLS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_22_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAShooterNPC(); \
 	friend struct ::Z_Construct_UClass_AShooterNPC_Statics; \
@@ -39,7 +39,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AShooterNPC*>(this); }
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_22_ENHANCED_CONSTRUCTORS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_22_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AShooterNPC(); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -51,12 +51,12 @@ public: \
 	NO_API virtual ~AShooterNPC();
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_19_PROLOG
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_22_GENERATED_BODY \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_19_PROLOG
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_22_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_22_INCLASS_NO_PURE_DECLS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_22_ENHANCED_CONSTRUCTORS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_22_INCLASS_NO_PURE_DECLS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h_22_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -66,6 +66,6 @@ class AShooterNPC;
 // ********** End Class AShooterNPC ****************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h
+#define CURRENT_FILE_ID FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_AI_ShooterNPC_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

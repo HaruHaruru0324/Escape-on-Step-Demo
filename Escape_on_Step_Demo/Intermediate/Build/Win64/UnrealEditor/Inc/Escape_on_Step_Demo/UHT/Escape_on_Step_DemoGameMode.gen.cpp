@@ -109,15 +109,15 @@ AEscape_on_Step_DemoGameMode::~AEscape_on_Step_DemoGameMode() {}
 // ********** End Class AEscape_on_Step_DemoGameMode ***********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoGameMode_h__Script_Escape_on_Step_Demo_Statics
+struct Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoGameMode_h__Script_Escape_on_Step_Demo_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AEscape_on_Step_DemoGameMode, AEscape_on_Step_DemoGameMode::StaticClass, TEXT("AEscape_on_Step_DemoGameMode"), &Z_Registration_Info_UClass_AEscape_on_Step_DemoGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEscape_on_Step_DemoGameMode), 4086336022U) },
 	};
-}; // Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoGameMode_h__Script_Escape_on_Step_Demo_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoGameMode_h__Script_Escape_on_Step_Demo_3021531186{
+}; // Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoGameMode_h__Script_Escape_on_Step_Demo_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoGameMode_h__Script_Escape_on_Step_Demo_3021531186{
 	TEXT("/Script/Escape_on_Step_Demo"),
-	Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoGameMode_h__Script_Escape_on_Step_Demo_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoGameMode_h__Script_Escape_on_Step_Demo_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoGameMode_h__Script_Escape_on_Step_Demo_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Escape_on_Step_DemoGameMode_h__Script_Escape_on_Step_Demo_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

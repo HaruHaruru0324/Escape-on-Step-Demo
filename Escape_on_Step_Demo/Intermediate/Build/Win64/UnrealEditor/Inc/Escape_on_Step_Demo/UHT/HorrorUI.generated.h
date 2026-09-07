@@ -17,16 +17,16 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class UHorrorUI ****************************************************************
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnSprintStateChanged); \
 	DECLARE_FUNCTION(execOnSprintMeterUpdated);
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_CALLBACK_WRAPPERS
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_CALLBACK_WRAPPERS
 struct Z_Construct_UClass_UHorrorUI_Statics;
 ESCAPE_ON_STEP_DEMO_API UClass* Z_Construct_UClass_UHorrorUI_NoRegister();
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_INCLASS_NO_PURE_DECLS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUHorrorUI(); \
 	friend struct ::Z_Construct_UClass_UHorrorUI_Statics; \
@@ -37,7 +37,7 @@ public: \
 	DECLARE_SERIALIZER(UHorrorUI)
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_ENHANCED_CONSTRUCTORS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UHorrorUI(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -49,14 +49,14 @@ public: \
 	NO_API virtual ~UHorrorUI();
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_15_PROLOG
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_GENERATED_BODY \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_15_PROLOG
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_CALLBACK_WRAPPERS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_INCLASS_NO_PURE_DECLS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_ENHANCED_CONSTRUCTORS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_CALLBACK_WRAPPERS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_INCLASS_NO_PURE_DECLS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -66,6 +66,6 @@ class UHorrorUI;
 // ********** End Class UHorrorUI ******************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h
+#define CURRENT_FILE_ID FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Horror_UI_HorrorUI_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

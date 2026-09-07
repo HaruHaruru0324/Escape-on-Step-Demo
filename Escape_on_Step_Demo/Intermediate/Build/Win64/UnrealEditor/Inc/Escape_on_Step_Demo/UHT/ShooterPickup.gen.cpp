@@ -470,7 +470,7 @@ AShooterPickup::~AShooterPickup() {}
 // ********** End Class AShooterPickup *************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics
+struct Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FWeaponTableRow::StaticStruct, Z_Construct_UScriptStruct_FWeaponTableRow_Statics::NewStructOps, TEXT("WeaponTableRow"),&Z_Registration_Info_UScriptStruct_FWeaponTableRow, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FWeaponTableRow), 149022085U) },
@@ -478,11 +478,11 @@ struct Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_S
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AShooterPickup, AShooterPickup::StaticClass, TEXT("AShooterPickup"), &Z_Registration_Info_UClass_AShooterPickup, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AShooterPickup), 1168402518U) },
 	};
-}; // Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_1740726061{
+}; // Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_1740726061{
 	TEXT("/Script/Escape_on_Step_Demo"),
-	Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterPickup_h__Script_Escape_on_Step_Demo_Statics::ScriptStructInfo),
 	nullptr, 0,
 };
 // ********** End Registration *********************************************************************

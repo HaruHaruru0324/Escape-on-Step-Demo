@@ -371,15 +371,15 @@ AShooterProjectile::~AShooterProjectile() {}
 // ********** End Class AShooterProjectile *********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterProjectile_h__Script_Escape_on_Step_Demo_Statics
+struct Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterProjectile_h__Script_Escape_on_Step_Demo_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AShooterProjectile, AShooterProjectile::StaticClass, TEXT("AShooterProjectile"), &Z_Registration_Info_UClass_AShooterProjectile, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AShooterProjectile), 157197282U) },
 	};
-}; // Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterProjectile_h__Script_Escape_on_Step_Demo_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterProjectile_h__Script_Escape_on_Step_Demo_2205760294{
+}; // Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterProjectile_h__Script_Escape_on_Step_Demo_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterProjectile_h__Script_Escape_on_Step_Demo_2205760294{
 	TEXT("/Script/Escape_on_Step_Demo"),
-	Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterProjectile_h__Script_Escape_on_Step_Demo_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterProjectile_h__Script_Escape_on_Step_Demo_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterProjectile_h__Script_Escape_on_Step_Demo_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterProjectile_h__Script_Escape_on_Step_Demo_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

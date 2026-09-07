@@ -20,7 +20,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_UShooterWeaponHolder_Statics;
 ESCAPE_ON_STEP_DEMO_API UClass* Z_Construct_UClass_UShooterWeaponHolder_NoRegister();
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_ENHANCED_CONSTRUCTORS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	ESCAPE_ON_STEP_DEMO_API UShooterWeaponHolder(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -32,7 +32,7 @@ ESCAPE_ON_STEP_DEMO_API UClass* Z_Construct_UClass_UShooterWeaponHolder_NoRegist
 	virtual ~UShooterWeaponHolder() = default;
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_GENERATED_UINTERFACE_BODY() \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_GENERATED_UINTERFACE_BODY() \
 private: \
 	static void StaticRegisterNativesUShooterWeaponHolder(); \
 	friend struct ::Z_Construct_UClass_UShooterWeaponHolder_Statics; \
@@ -43,15 +43,15 @@ public: \
 	DECLARE_SERIALIZER(UShooterWeaponHolder)
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_GENERATED_BODY \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_GENERATED_BODY \
 	PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_GENERATED_UINTERFACE_BODY() \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_ENHANCED_CONSTRUCTORS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_GENERATED_UINTERFACE_BODY() \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_INCLASS_IINTERFACE_NO_PURE_DECLS \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_INCLASS_IINTERFACE_NO_PURE_DECLS \
 protected: \
 	virtual ~IShooterWeaponHolder() {} \
 public: \
@@ -60,11 +60,11 @@ public: \
 	virtual UObject* _getUObject() const { return nullptr; }
 
 
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_14_PROLOG
-#define FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_25_GENERATED_BODY \
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_14_PROLOG
+#define FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_INCLASS_IINTERFACE_NO_PURE_DECLS \
+	FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h_17_INCLASS_IINTERFACE_NO_PURE_DECLS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -74,6 +74,6 @@ class UShooterWeaponHolder;
 // ********** End Interface UShooterWeaponHolder ***************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID__team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h
+#define CURRENT_FILE_ID FID__Team_Escape_on_Step_Demo_Escape_on_Step_Demo_Source_Escape_on_Step_Demo_Variant_Shooter_Weapons_ShooterWeaponHolder_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
